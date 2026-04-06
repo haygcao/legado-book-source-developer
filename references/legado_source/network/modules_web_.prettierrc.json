@@ -1,0 +1,13 @@
+// Source: /modules/web/.prettierrc.json
+文件名：.prettierrc.json
+文件大小：126 字节
+================================================================================
+文件内容：
+
+{
+  "$schema": "https://json.schemastore.org/prettierrc",
+  "semi": false,
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+

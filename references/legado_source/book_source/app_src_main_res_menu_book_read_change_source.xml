@@ -1,0 +1,23 @@
+// Source: /app/src/main/res/menu/book_read_change_source.xml
+文件名：book_read_change_source.xml
+文件大小：569 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_chapter_change_source"
+        android:icon="@drawable/ic_bubble_chart"
+        android:title="@string/chapter_change_source"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_book_change_source"
+        android:icon="@drawable/ic_bubble_chart"
+        android:title="@string/book_change_source"
+        app:showAsAction="never" />
+
+</menu>
+

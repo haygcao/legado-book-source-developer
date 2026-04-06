@@ -1,0 +1,23 @@
+// Source: /app/src/main/res/menu/book_cache_download.xml
+文件名：book_cache_download.xml
+文件大小：553 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_download_after"
+        android:icon="@drawable/ic_bubble_chart"
+        android:title="@string/menu_download_after"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_download_all"
+        android:icon="@drawable/ic_bubble_chart"
+        android:title="@string/menu_download_all"
+        app:showAsAction="never" />
+
+</menu>
+

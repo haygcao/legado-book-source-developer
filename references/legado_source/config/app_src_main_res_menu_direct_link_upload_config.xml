@@ -1,0 +1,26 @@
+// Source: /app/src/main/res/menu/direct_link_upload_config.xml
+文件名：direct_link_upload_config.xml
+文件大小：576 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_copy_rule"
+        android:title="@string/copy_rule"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_paste_rule"
+        android:title="@string/paste_rule"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_import_default"
+        android:title="@string/import_default_rule"
+        app:showAsAction="never" />
+
+</menu>
+

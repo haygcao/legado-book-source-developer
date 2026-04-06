@@ -1,0 +1,17 @@
+// Source: /app/src/main/res/menu/book_info_edit.xml
+文件名：book_info_edit.xml
+文件大小：338 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_save"
+        android:icon="@drawable/ic_save"
+        android:title="@string/action_save"
+        app:showAsAction="ifRoom" />
+
+</menu>
+

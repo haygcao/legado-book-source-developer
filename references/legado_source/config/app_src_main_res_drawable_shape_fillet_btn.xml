@@ -1,0 +1,12 @@
+// Source: /app/src/main/res/drawable/shape_fillet_btn.xml
+文件名：shape_fillet_btn.xml
+文件大小：232 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="16dp" />
+    <solid android:color="@color/btn_bg_press" />
+</shape>
+

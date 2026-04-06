@@ -1,0 +1,7 @@
+// Source: /app/src/main/assets/web/vue/assets/loading-DkQYEuap.css
+文件名：loading-DkQYEuap.css
+文件大小：107 字节
+================================================================================
+文件内容：
+.el-loading-spinner{font-size:36px;color:#b5b5b5}.el-loading-text{font-weight:500;color:#b5b5b5!important}
+

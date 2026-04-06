@@ -1,0 +1,14 @@
+// Source: /app/src/main/res/menu/import_book_sel.xml
+文件名：import_book_sel.xml
+文件大小：211 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_del_selection"
+        android:title="@string/delete" />
+
+</menu>
+

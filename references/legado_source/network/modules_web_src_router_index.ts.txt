@@ -1,0 +1,21 @@
+// Source: /modules/web/src/router/index.ts
+文件名：index.ts
+文件大小：426 字节
+================================================================================
+文件内容：
+import { createWebHashHistory, createRouter } from 'vue-router'
+import { bookRoutes } from './bookRouter'
+import { sourceRoutes } from './sourceRouter'
+
+const router = createRouter({
+  //   history: createWebHistory(process.env.BASE_URL),
+  history: createWebHashHistory(),
+  routes: [bookRoutes, sourceRoutes].flat(),
+})
+
+router.afterEach(to => {
+  if (to.name == 'shelf') document.title = '书架'
+})
+
+export default router
+

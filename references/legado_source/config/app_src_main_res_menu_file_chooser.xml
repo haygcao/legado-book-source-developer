@@ -1,0 +1,17 @@
+// Source: /app/src/main/res/menu/file_chooser.xml
+文件名：file_chooser.xml
+文件大小：359 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_create"
+        android:title="@string/create_folder"
+        android:icon="@drawable/ic_create_folder_outline"
+        app:showAsAction="always" />
+
+</menu>
+

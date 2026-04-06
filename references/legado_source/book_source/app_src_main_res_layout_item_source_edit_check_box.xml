@@ -1,0 +1,28 @@
+// Source: /app/src/main/res/layout/item_source_edit_check_box.xml
+文件名：item_source_edit_check_box.xml
+文件大小：778 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="3dp">
+
+    <io.legado.app.lib.theme.view.ThemeCheckBox
+        android:id="@+id/check_box"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingVertical="12dp"
+        tools:ignore="TouchTargetSizeCheck,VisualLintButtonSize" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/secondaryText"/>
+
+</LinearLayout>
+

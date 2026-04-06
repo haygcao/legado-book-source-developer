@@ -1,0 +1,12 @@
+// Source: /app/src/main/res/drawable/transparent_placeholder.xml
+文件名：transparent_placeholder.xml
+文件大小：260 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@android:color/transparent" />
+    <size android:width="100dp" android:height="100dp" />
+</shape>
+

@@ -1,0 +1,24 @@
+// Source: /modules/web/src/config/sourceConfig.d.ts
+文件名：sourceConfig.d.ts
+文件大小：619 字节
+================================================================================
+文件内容：
+import type { Source } from '@/source'
+import bookSourceEditConfig from './bookSourceEditConfig'
+import rssSourceEditConfig from './rssSourceEditConfig'
+
+type SourceConfigKey =
+  | keyof typeof bookSourceEditConfig
+  | keyof typeof rssSourceEditConfig
+type SourceConfigRecord = {
+  title: string
+  type: string //"array" | "String" | "Boolean"
+  array?: string[]
+  hint?: string
+  required?: boolean
+  namespace?: Partial<keyof Source>
+  id: Partial<keyof Source>
+}
+type SourceConfigValue = { name: string; children: SourceConfigRecord[] }
+export type SourceConfig = Partial<Record<SourceConfigKey, SourceConfigValue>>
+

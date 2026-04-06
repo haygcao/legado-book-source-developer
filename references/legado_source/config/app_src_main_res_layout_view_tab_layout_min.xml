@@ -1,0 +1,18 @@
+// Source: /app/src/main/res/layout/view_tab_layout_min.xml
+文件名：view_tab_layout_min.xml
+文件大小：565 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.tabs.TabLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tab_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="?attr/actionBarStyle"
+    android:background="@android:color/transparent"
+    app:tabBackground="@android:color/transparent"
+    app:tabRippleColor="@android:color/transparent"
+    app:tabMaxWidth="100dp"
+    app:tabMinWidth="10dp" />
+

@@ -1,0 +1,13 @@
+// Source: /app/src/main/res/drawable/selector_common_bg.xml
+文件名：selector_common_bg.xml
+文件大小：334 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@color/btn_bg_press" />
+    <item android:state_selected="true" android:drawable="@color/btn_bg_press" />
+
+    <item android:drawable="@color/background" />
+</selector>
+

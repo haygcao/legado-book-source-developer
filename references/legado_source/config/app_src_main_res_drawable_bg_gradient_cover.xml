@@ -1,0 +1,16 @@
+// Source: /app/src/main/res/drawable/bg_gradient_cover.xml
+文件名：bg_gradient_cover.xml
+文件大小：342 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#a0000000"
+        android:centerColor="#60000000"
+        android:endColor="#00000000"
+        android:angle="90"
+        android:centerY="0.7" />
+    <corners android:radius="12px" />
+</shape>
+

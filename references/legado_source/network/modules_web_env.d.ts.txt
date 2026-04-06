@@ -1,0 +1,9 @@
+// Source: /modules/web/env.d.ts
+文件名：env.d.ts
+文件大小：82 字节
+================================================================================
+文件内容：
+/// <reference types="vite/client" />
+
+declare module "vue3-virtual-scroll-list";
+

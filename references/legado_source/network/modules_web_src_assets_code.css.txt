@@ -1,0 +1,15 @@
+// Source: /modules/web/src/assets/code.css
+文件名：code.css
+文件大小：183 字节
+================================================================================
+文件内容：
+code {
+  border-radius: 4px;
+  padding: 0.15rem 0.5rem;
+  background-color: var(--el-fill-color-light);
+  transition:
+    color 0.25s,
+    background-color 0.5s;
+  font-size: 14px;
+}
+

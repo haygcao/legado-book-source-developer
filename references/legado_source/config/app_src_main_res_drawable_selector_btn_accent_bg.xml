@@ -1,0 +1,11 @@
+// Source: /app/src/main/res/drawable/selector_btn_accent_bg.xml
+文件名：selector_btn_accent_bg.xml
+文件大小：277 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false" android:drawable="@color/accent" />
+    <item android:state_pressed="true" android:drawable="@color/btn_bg_press" />
+</selector>
+

@@ -1,0 +1,11 @@
+// Source: /app/src/main/res/drawable/bg_video_chapter_item.xml
+文件名：bg_video_chapter_item.xml
+文件大小：189 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#424242" />
+    <corners android:radius="8dp" />
+</shape>
+

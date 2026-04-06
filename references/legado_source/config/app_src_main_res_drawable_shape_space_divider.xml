@@ -1,0 +1,14 @@
+// Source: /app/src/main/res/drawable/shape_space_divider.xml
+文件名：shape_space_divider.xml
+文件大小：186 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <size
+        android:width="8dp"
+        android:height="8dp" />
+
+</shape>
+

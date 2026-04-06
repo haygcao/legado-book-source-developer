@@ -1,0 +1,20 @@
+// Source: /modules/web/src/assets/bookshelf.css
+文件名：bookshelf.css
+文件大小：242 字节
+================================================================================
+文件内容：
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+}
+
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  margin: 0;
+  height: 100%;
+}
+

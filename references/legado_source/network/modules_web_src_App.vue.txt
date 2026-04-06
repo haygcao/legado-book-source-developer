@@ -1,0 +1,9 @@
+// Source: /modules/web/src/App.vue
+文件名：App.vue
+文件大小：53 字节
+================================================================================
+文件内容：
+<template>
+  <router-view></router-view>
+</template>
+

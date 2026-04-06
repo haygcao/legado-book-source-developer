@@ -1,0 +1,17 @@
+// Source: /app/src/main/res/drawable/shape_circle.xml
+文件名：shape_circle.xml
+文件大小：256 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <solid android:color="#60666666" />
+
+    <size
+        android:width="120dp"
+        android:height="120dp" />
+
+</shape>
+

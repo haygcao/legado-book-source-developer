@@ -1,0 +1,29 @@
+// Source: /app/src/main/res/menu/book_read_refresh.xml
+文件名：book_read_refresh.xml
+文件大小：737 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_refresh_dur"
+        android:icon="@drawable/ic_bubble_chart"
+        android:title="@string/menu_refresh_dur"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_refresh_after"
+        android:icon="@drawable/ic_bubble_chart"
+        android:title="@string/menu_refresh_after"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_refresh_all"
+        android:icon="@drawable/ic_bubble_chart"
+        android:title="@string/menu_refresh_all"
+        app:showAsAction="never" />
+
+</menu>
+

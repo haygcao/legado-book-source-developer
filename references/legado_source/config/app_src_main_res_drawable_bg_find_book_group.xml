@@ -1,0 +1,13 @@
+// Source: /app/src/main/res/drawable/bg_find_book_group.xml
+文件名：bg_find_book_group.xml
+文件大小：245 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- 角度 -->
+    <corners android:radius="6dp"/>
+    <!-- 填充色 -->
+    <solid android:color="@color/transparent10" />
+</shape>
+

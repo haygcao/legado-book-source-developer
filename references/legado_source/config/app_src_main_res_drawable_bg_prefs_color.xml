@@ -1,0 +1,11 @@
+// Source: /app/src/main/res/drawable/bg_prefs_color.xml
+文件名：bg_prefs_color.xml
+文件大小：282 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/btn_bg_press" android:state_focused="true" />
+    <item android:drawable="@color/btn_bg_press" android:state_pressed="true" />
+</selector>
+

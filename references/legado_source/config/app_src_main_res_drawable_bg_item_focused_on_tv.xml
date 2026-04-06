@@ -1,0 +1,10 @@
+// Source: /app/src/main/res/drawable/bg_item_focused_on_tv.xml
+文件名：bg_item_focused_on_tv.xml
+文件大小：201 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/btn_bg_press" android:state_focused="true" />
+</selector>
+

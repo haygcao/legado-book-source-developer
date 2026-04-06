@@ -1,0 +1,10 @@
+// Source: /app/src/debug/res/values/strings.xml
+文件名：strings.xml
+文件大小：140 字节
+================================================================================
+文件内容：
+<resources>
+    <string name="app_name">legado·D</string>
+    <string name="receiving_shared_label">legado·D·search</string>
+</resources>
+

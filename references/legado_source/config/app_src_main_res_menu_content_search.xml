@@ -1,0 +1,25 @@
+// Source: /app/src/main/res/menu/content_search.xml
+文件名：content_search.xml
+文件大小：584 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="AlwaysShowAction">
+
+    <item
+        android:id="@+id/menu_enable_replace"
+        android:title="@string/replace"
+        android:checkable="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_enable_regex"
+        android:title="@string/regex"
+        android:checkable="true"
+        app:showAsAction="never" />
+
+</menu>
+

@@ -1,0 +1,19 @@
+// Source: /app/src/main/res/layout/dialog_number_picker.xml
+文件名：dialog_number_picker.xml
+文件大小：433 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <NumberPicker
+        android:id="@+id/number_picker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:scrollbars="none" />
+
+</FrameLayout>
+

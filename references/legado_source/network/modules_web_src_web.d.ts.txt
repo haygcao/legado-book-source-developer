@@ -1,0 +1,20 @@
+// Source: /modules/web/src/web.d.ts
+文件名：web.d.ts
+文件大小：252 字节
+================================================================================
+文件内容：
+export type webReadConfig = {
+  theme: number
+  font: number
+  fontSize: number
+  readWidth: number
+  infiniteLoading: boolean
+  customFontName: string
+  jumpDuration: number
+  spacing: {
+    paragraph: number
+    line: number
+    letter: number
+  }
+}
+

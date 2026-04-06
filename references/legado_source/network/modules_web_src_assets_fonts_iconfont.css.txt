@@ -1,0 +1,11 @@
+// Source: /modules/web/src/assets/fonts/iconfont.css
+文件名：iconfont.css
+文件大小：106 字节
+================================================================================
+文件内容：
+@charset "UTF-8";
+@font-face {
+  font-family: 'iconfont';
+  src: url('./iconfont.woff') format('woff');
+}
+

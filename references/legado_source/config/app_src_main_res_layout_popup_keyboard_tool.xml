@@ -1,0 +1,18 @@
+// Source: /app/src/main/res/layout/popup_keyboard_tool.xml
+文件名：popup_keyboard_tool.xml
+文件大小：557 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.recyclerview.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/recycler_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@color/background_card"
+    android:orientation="horizontal"
+    android:padding="5dp"
+    app:spanCount="1"
+    app:layoutManager="androidx.recyclerview.widget.GridLayoutManager" />
+

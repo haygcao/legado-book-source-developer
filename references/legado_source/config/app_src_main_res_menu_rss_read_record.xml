@@ -1,0 +1,18 @@
+// Source: /app/src/main/res/menu/rss_read_record.xml
+文件名：rss_read_record.xml
+文件大小：379 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="AlwaysShowAction">
+
+    <item
+        android:id="@+id/menu_clear"
+        android:title="@string/clear"
+        app:showAsAction="always" />
+
+</menu>
+

@@ -1,0 +1,23 @@
+// Source: /app/src/main/res/menu/rss_source_debug.xml
+文件名：rss_source_debug.xml
+文件大小：518 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="AlwaysShowAction">
+
+    <item
+        android:id="@+id/menu_list_src"
+        android:title="@string/list_src"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_content_src"
+        android:title="@string/content_src"
+        app:showAsAction="never" />
+
+</menu>
+

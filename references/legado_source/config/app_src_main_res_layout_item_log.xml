@@ -1,0 +1,13 @@
+// Source: /app/src/main/res/layout/item_log.xml
+文件名：item_log.xml
+文件大小：286 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textIsSelectable="true"
+    android:autoLink="web" />
+

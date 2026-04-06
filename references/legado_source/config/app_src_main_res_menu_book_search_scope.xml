@@ -1,0 +1,21 @@
+// Source: /app/src/main/res/menu/book_search_scope.xml
+文件名：book_search_scope.xml
+文件大小：527 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_screen"
+        android:title="@string/screen"
+        android:icon="@drawable/ic_screen"
+        android:visible="false"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always"
+        tools:ignore="AlwaysShowAction" />
+
+</menu>
+

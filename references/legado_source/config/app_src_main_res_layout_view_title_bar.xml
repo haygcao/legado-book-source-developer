@@ -1,0 +1,15 @@
+// Source: /app/src/main/res/layout/view_title_bar.xml
+文件名：view_title_bar.xml
+文件大小：443 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:theme="?attr/actionBarStyle"
+    app:titleTextAppearance="@style/ToolbarTitle"
+    app:popupTheme="@style/AppTheme.PopupOverlay"/>
+

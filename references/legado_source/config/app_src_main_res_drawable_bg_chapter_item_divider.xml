@@ -1,0 +1,16 @@
+// Source: /app/src/main/res/drawable/bg_chapter_item_divider.xml
+文件名：bg_chapter_item_divider.xml
+文件大小：292 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="line">
+    <stroke
+        android:width="1px"
+        android:color="@color/bg_divider_line"
+        android:dashWidth="3dp"
+        android:dashGap="3dp" />
+
+</shape>
+

@@ -1,0 +1,12 @@
+// Source: /app/src/main/res/drawable/selector_tv_black.xml
+文件名：selector_tv_black.xml
+文件大小：433 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/tv_btn_normal_black" android:state_pressed="false" android:state_enabled="true" />
+    <item android:color="@color/tv_btn_press_black" android:state_pressed="true" android:state_enabled="true" />
+    <item android:color="@color/tv_btn_press_black" android:state_enabled="false" />
+</selector>
+

@@ -1,0 +1,19 @@
+// Source: /app/src/main/res/menu/book_group_manage.xml
+文件名：book_group_manage.xml
+文件大小：425 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_add"
+        android:icon="@drawable/ic_add"
+        android:title="@string/add_group"
+        app:showAsAction="always"
+        tools:ignore="AlwaysShowAction" />
+
+</menu>
+

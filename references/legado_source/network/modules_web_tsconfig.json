@@ -1,0 +1,17 @@
+// Source: /modules/web/tsconfig.json
+文件名：tsconfig.json
+文件大小：139 字节
+================================================================================
+文件内容：
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ]
+}
+

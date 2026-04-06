@@ -1,0 +1,16 @@
+// Source: /app/src/main/res/menu/theme_list.xml
+文件名：theme_list.xml
+文件大小：295 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_import"
+        android:title="剪贴板导入"
+        app:showAsAction="always" />
+
+</menu>
+

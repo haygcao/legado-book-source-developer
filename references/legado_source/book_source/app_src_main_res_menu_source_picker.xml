@@ -1,0 +1,14 @@
+// Source: /app/src/main/res/menu/source_picker.xml
+文件名：source_picker.xml
+文件大小：231 字节
+================================================================================
+文件内容：
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_change_source_delay"
+        android:title="@string/change_source_delay" />
+
+</menu>
+
